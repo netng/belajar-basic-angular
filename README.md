@@ -7,6 +7,6 @@
     <li>String interpolation</li>
     <li>Pengenalan NgOnInit</li>
     <li>Pengenalan NgAfterViewInit</li>
-    <li>Cara passing data dari parent ke child komponen menggunakan @Input decorator<li>
+    <li>Cara passing data dari parent ke child komponen menggunakan @Input decorator</li>
     <li>Cara passing data dari child ke parent komponen menggunakan decorator @ViewChild dan @Output dengan event emitter</li>
 </ul>
